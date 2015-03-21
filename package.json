@@ -1,0 +1,16 @@
+{
+  "name": "edison-nodemailer",
+  "author": "Scott Baker",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Push a button to send email from Intel Edison",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+    "dependencies": {
+    "config": "^1.12.0",
+    "winston": "^0.9.0",
+    "nodemailer": "^1.3.2"
+  }
+}

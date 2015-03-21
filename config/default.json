@@ -1,0 +1,24 @@
+{
+    "user":     "your_email_address_goes_here",
+    "password": "your_email_password_goes_here",
+    "service":  "your_email_service_goes_here",
+
+    "boardPins": {
+        "sendMailButton": 2
+    },
+    "subjects": {
+        "hello": "Hello World",
+        "test":  "Edison Testing"
+    },
+    "messages": {
+        "hello": "Hello World from Edison",
+        "test":  "Testing Edison sendmail service"
+    },
+    "contacts": {
+        "contact1": "contact_1_email_address",
+        "contact2": "contact_2_email_address",
+        "contact3": "contact_3_email_address",
+        "contact4": "contact_4_email_address",
+        "test":     "test_email_address"
+    }
+}
